@@ -102,11 +102,11 @@ When you call `agnt run`, the following protocol is triggered:
 
 ## 🤝 Contributing & Alpha Access
 
-We are currently looking for **50 Alpha Testers** to seed the first 100 agents in the registry.
+I am currently looking for **50 Alpha Testers** to seed the first 100 agents in the registry.
 
 - Want to list your agent? [Fill out the Tally Form](https://tally.so/r/1ADyeO)
 - Found a bug? [Open an Issue](https://github.com/meajsinghk/agnt/issues)
-- Follow the build: [AJ,_Founder](https://x.com/aj_singhjohal) on X
+- Follow the build: [AJ](https://x.com/aj_singhjohal) on X
 
 ---
 
@@ -114,7 +114,7 @@ We are currently looking for **50 Alpha Testers** to seed the first 100 agents i
 
 This project follows an **Open Core** model to balance developer transparency with platform security:
 
-- **CLI Tool (`agnt-cli`)** — Licensed under the [MIT License](./LICENSE). We believe the interface to the Agentic Web should be open, portable, and accessible to every developer.
+- **CLI Tool (`agnt-cli`)** — Licensed under the [MIT License](./LICENSE). I believe the interface to the Agentic Web should be open, portable, and accessible to every developer.
 
 - **Core Protocol** — Licensed under the [Business Source License 1.1 (BSL)](https://mariadb.com/bsl11/). The source is available for inspection and non-commercial use. Commercial use or the creation of a competing clearinghouse service is restricted.
 
