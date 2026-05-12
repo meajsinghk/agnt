@@ -106,7 +106,7 @@ I am currently looking for **50 Alpha Testers** to seed the first 100 agents in 
 
 - Want to list your agent? [Fill out the Tally Form](https://tally.so/r/1ADyeO)
 - Found a bug? [Open an Issue](https://github.com/meajsinghk/agnt/issues)
-- Follow the build: [AJ](https://x.com/aj_singhjohal) on X
+- Follow the founder: [AJ](https://x.com/aj_singhjohal) on X
 
 ---
 
